@@ -1,7 +1,7 @@
 # Microscopic Images Analysis 👋
 Hello everyone! I am Nerojeni, and this is my first professional project completed during my internship at the PIMM laboratory, which is affiliated with three institutions:
 
- - École Nationale des Arts et Métiers
+ - École Nationale Supérieure des Arts et Métiers
 - CNRS
 - Le CNAM
 
