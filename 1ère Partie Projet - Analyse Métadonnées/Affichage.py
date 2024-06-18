@@ -9,8 +9,8 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 
-# Chemin absolu du dossier contenant vos fichiers JSON
-data_folder = "C:/Users/neroj/OneDrive/Bureau/BUT INF FA2/StageProjet/RecupInfoImage/Data/" # Changer le chemin d'accès
+# Chemin du dossier contenant vos fichiers JSON
+data_folder = "/Data/" # Changer le chemin d'accès
 
 # Liste des noms de fichiers
 file_names = [
